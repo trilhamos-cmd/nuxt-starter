@@ -29,16 +29,15 @@ definePageMeta({
       :description="page.about.description"
     />
 
-    <script setup>
-      import CtaAventura from '@/components/CtaAventura.vue'
-    </script>
-
-<template>
-  <Container>
-    <!-- ...blocos anteriores -->
-    <CtaAventura />
-  </Container>
-</template>
+    <CtaAventura
+  title="Qual será sua próxima aventura?"
+  description="Entre para o Clube Trilhamos no Telegram e no Strava e descubra novas trilhas, troque experiências e faça parte da nossa comunidade."
+  :buttons="[
+    { label: 'Entrar no Clube Trilhamos Telegram', link: 'https://t.me/seu-grupo', variant: 'yellow' },
+    { label: 'Entrar no Clube Trilhamos Strava', link: 'https://www.strava.com/clubs/seu-clube', variant: 'black' }
+  ]"
+  background="/images/aventura-bg.jpg"
+  />
 
     <Testimonials
       :title="page.testimonials.title"
