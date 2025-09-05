@@ -17,7 +17,7 @@ const menuitems = [
       <div class="flex items-center justify-between">
   <a href="/" class="flex items-center gap-2">
     <NuxtImg src="/images/logo.png" alt="Meu Logo" class="h-10" />
-    <span class="text-2xl font-bold text-zinc-800">Trilhamss</span>
+    <span class="text-2xl font-bold text-zinc-800">Trilhamos</span>
   </a>
 </div>
       <nav class="flex w-auto">
