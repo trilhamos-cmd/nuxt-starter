@@ -20,7 +20,6 @@ const props = defineProps({
   description: String
 })
 
-// Divide a descrição em linhas usando \n
-const lines = computed(() => props.description.split('\n'))
+// Divide o texto em linhas usando \\n do JSON
+const lines = computed(() => props.description.split('\\n'))
 </script>
-
