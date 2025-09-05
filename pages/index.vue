@@ -29,12 +29,6 @@ definePageMeta({
       :description="page.about.description"
     />
 
-    <Logos :title="page.logos.title" :icons="page.logos.icons" />
-    <Features
-      :title="page.features.title"
-      :description="page.features.description"
-      :items="page.features.items"
-    />
     <Testimonials
       :title="page.testimonials.title"
       :description="page.testimonials.description"
