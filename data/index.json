@@ -2,7 +2,7 @@
   "hero": {
     "title": "Trilhamos",
     "description": "Compartilhe Hitórias de Trilhas",
-    "image": "images/hero.jpg",
+    "image": "/images/Trilhamos.jpg",
     "imageAlt": "Nuxt logo and title on abstract background",
     "buttons": [
       {
