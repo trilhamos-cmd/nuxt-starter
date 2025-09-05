@@ -12,9 +12,9 @@
     ]
   },
   "about": {
-    "title": "Sobre Trilhamos",
-    "description": "No Trilhamos, acreditamos que cada trilha tem uma história. Não se trata apenas de chegar ao topo, atravessar rios ou acampar sob estrelas — mas de viver cada passo, registrar cada memória e compartilhar com quem ama a aventura.\\n\\nCriamos um espaço para amantes do trekking, ecoturismo e turismo de aventura se inspirarem, trocarem dicas e descobrirem roteiros incríveis pelo Brasil e pelo mundo. Nossa missão é conectar pessoas e histórias de trilhas, mostrando que cada passo conta.\\n\\nAqui você encontra:\\n- Guias e checklists práticos para suas aventuras\\n- Planners e journals para registrar cada passo do caminho\\n- Recomendações de equipamentos confiáveis, testados por quem vive a trilha\\n\\nMais do que seguidores ou likes, queremos criar uma comunidade que trilha junto, mesmo que cada um esteja em lugares diferentes. Porque no Trilhamos, cada trilha merece ser contada — e cada história compartilhada inspira outra.\\n\\nTrilhamos: Compartilhe Histórias de Trilhas!"
-  },
+  "title": "Sobre Trilhamos",
+  "description": "No Trilhamos, acreditamos que cada trilha tem uma história.\\nNão se trata apenas de chegar ao topo, atravessar rios ou acampar sob estrelas — mas de viver cada passo, registrar cada memória e compartilhar com quem ama a aventura.\\n\\nCriamos um espaço para amantes do trekking, ecoturismo e turismo de aventura se inspirarem, trocarem dicas e descobrirem roteiros incríveis pelo Brasil e pelo mundo. Nossa missão é conectar pessoas e histórias de trilhas, mostrando que cada passo conta.\\n\\nAqui você encontra:\\n- Guias e checklists práticos para suas aventuras\\n- Planners e journals para registrar cada passo do caminho\\n- Recomendações de equipamentos confiáveis, testados por quem vive a trilha\\n\\nMais do que seguidores ou likes, queremos criar uma comunidade que trilha junto, mesmo que cada um esteja em lugares diferentes. Porque no Trilhamos, cada trilha merece ser contada — e cada história compartilhada inspira outra.\\n\\nTrilhamos: Compartilhe Histórias de Trilhas!"
+},
   "features": {
     "title": "Why choose Nuxt.js?",
     "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
