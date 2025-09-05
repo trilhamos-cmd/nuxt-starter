@@ -16,7 +16,7 @@ const menuitems = [
     <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4">
       <div class="flex items-center justify-between">
   <a href="/" class="flex items-center gap-2">
-    <NuxtImg src="/images/logo.png" alt="Meu Logo" class="h-10" />
+    <NuxtImg src="/images/Logo.png" alt="Meu Logo" class="h-10" />
     <span class="text-2xl font-bold text-zinc-800">Trilhamos</span>
   </a>
 </div>
