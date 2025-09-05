@@ -16,6 +16,10 @@ definePageMeta({
       :imageAlt="page.hero.imageAlt"
       :buttons="page.hero.buttons"
     ></Hero>
+    <AboutSection
+  :title="page.about.title"
+  :description="page.about.description"
+/>
     <Logos :title="page.logos.title" :icons="page.logos.icons"></Logos>
     <Features
       :title="page.features.title"
