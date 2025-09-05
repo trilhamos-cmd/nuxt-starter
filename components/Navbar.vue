@@ -15,10 +15,11 @@ const menuitems = [
   <Container>
     <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4">
       <div class="flex items-center justify-between">
-        <a href="/" class="flex items-center">
-  <NuxtImg src="/images/logo.png" alt="Meu Logo" class="h-10" />
-        </a>
-      </div>
+  <a href="/" class="flex items-center gap-2">
+    <NuxtImg src="/images/logo.png" alt="Meu Logo" class="h-10" />
+    <span class="text-2xl font-bold text-zinc-800">Trilhamss</span>
+  </a>
+</div>
       <nav class="flex w-auto">
         <ul class="flex flex-row gap-3 text-sm">
           <li v-for="item of menuitems">
