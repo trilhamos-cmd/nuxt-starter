@@ -1,6 +1,11 @@
 <script setup>
 import pageData from '@/data/index.json'
-import AboutSection from '@/components/AboutSection.vue' // importante!
+import AboutSection from '@/components/AboutSection.vue'  // importante!
+import Hero from '@/components/Hero.vue'
+import Logos from '@/components/Logos.vue'
+import Features from '@/components/Features.vue'
+import Testimonials from '@/components/Testimonials.vue'
+import Cta from '@/components/Cta.vue'
 
 const page = ref(pageData)
 
