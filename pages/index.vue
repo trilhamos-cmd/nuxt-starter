@@ -29,6 +29,17 @@ definePageMeta({
       :description="page.about.description"
     />
 
+    <script setup>
+      import CtaAventura from '@/components/CtaAventura.vue'
+    </script>
+
+<template>
+  <Container>
+    <!-- ...blocos anteriores -->
+    <CtaAventura />
+  </Container>
+</template>
+
     <Testimonials
       :title="page.testimonials.title"
       :description="page.testimonials.description"
